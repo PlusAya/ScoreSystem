@@ -503,3 +503,28 @@
   width:644px;
   word-wrap:break-word;
 }
+#u35_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:94px;
+}
+#u35 {
+  border-width:0px;
+  position:absolute;
+  left:29px;
+  top:385px;
+  width:60px;
+  height:94px;
+}
+#u36 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:39px;
+  width:56px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
